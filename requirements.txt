@@ -1,1 +1,2 @@
 Mezzanine==3.1.10
+pillow>=8.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
