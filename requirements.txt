@@ -1,1 +1,2 @@
 Mezzanine==3.1.10
+future>=0.18.3 # not directly required, pinned by Snyk to avoid a vulnerability
